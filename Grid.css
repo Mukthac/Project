@@ -1,0 +1,65 @@
+.parent{
+    background-color: rgb(236, 12, 50);
+    height: 700px;
+    width: 500px;
+    gap: 10px;
+    
+    
+}
+    .box{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.one{
+     background-color: rgb(247, 247, 7);
+    height: 150px;
+    width: 150px;
+}
+.two{
+     background-color: rgb(9, 232, 253);
+    height: 150px;
+    width: 150px;
+}
+.three{
+     background-color: rgba(175, 219, 73, 0.916);
+    height: 150px;
+    width: 150px;
+}
+.second{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+
+    .second1{
+        background-color: antiquewhite;
+        height: 150px;
+        width: 300px;
+       
+    }
+}
+
+.third{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+    .third1{
+        background-color: rgb(6, 7, 1);
+        height: 150px;
+        width: 300px;
+    }
+}
+.four{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+
+    .four1{
+        background-color: rgb(8, 189, 249);
+        height: 150px;
+        width: 350px;
+    }
+
+}
